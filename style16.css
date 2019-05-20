@@ -1,0 +1,56 @@
+body{
+	background-color:rgb(255, 224, 241);
+}
+h1{
+	font-size:80px;
+	position:absolute;
+	top:15%;
+	left:20%;
+}
+img{
+	position:relative;
+	top:200px;
+}
+
+.hdoc{
+	position:relative;
+	left:10%;
+	width:200px;
+	height:200px;
+}
+
+.jdoc{
+	position:relative;
+	left:32%;
+	width:350px;
+	height:350px;
+}
+
+.cdoc{
+	position:relative;
+	left:22%;
+	width:200px;
+	height:200px;
+}
+
+h2{
+	position:absolute;
+	top:150%;
+	left:7%;
+}
+
+h3{
+	font-size:35px;
+	position:absolute;
+	top:150%;
+	left:40%;
+}
+
+h4{
+	font-size:35px;
+	position:absolute;
+	top:150%;
+	left:70%;
+}
+
+}

@@ -1,0 +1,120 @@
+body{
+	background-color: rgb(255, 224, 241);
+}
+
+h1{
+	position:absolute;
+	top:15%;
+	left:6%;
+	font-size:80px;
+}
+
+h2{
+	position:absolute;
+	top:35%;
+	left:35%;
+	font-size:40px;
+}
+
+.app{
+	position:absolute;
+	top:15%;
+	left:75%;
+	height:400px;
+}
+
+.soul{
+	position:absolute;
+	top:55%;
+	left:28%;
+	height:250px;
+}
+
+.acai{
+	position:absolute;
+	top:52%;
+	left:25%;
+	height:150px;
+}
+
+.pressed{
+	position:absolute;
+	top:45%;
+	left:40%;
+	height:150px;
+}
+
+.tread{
+	position:absolute;
+	top:58%;
+	left:50%;
+	height:100px;
+}
+
+ul{
+	font-size:25px;
+	position:absolute;
+	top:92%;
+	left:5%;
+}
+
+h3{
+	font-size:40px;
+	position:absolute;
+	top:140%;
+	left:39%;
+}
+
+p{
+	font-size:25px;
+	position:absolute;
+	top:200%;
+	left:5%;
+
+}
+
+.mobile{
+	position:absolute;
+	top:152%;
+	left:30%;
+}
+
+h4{
+	font-size:40px;
+	position:absolute;
+	top:238%;
+	left:39%;
+
+}
+
+.fig{
+	position:absolute;
+	top:245%;
+	left:7%;
+	height:250px;
+}
+
+.proto{
+	top:260%;
+	left:30%;
+	height:250px;
+}
+
+.screen{
+	position:absolute;
+	top:280%;
+	left:35%;
+	height:350px;
+}
+
+h6{
+	position:absolute;
+	top:370%;
+	left:5%;
+
+}
+button{
+	position:absolute;
+	top:345%;
+}
+

@@ -1,0 +1,67 @@
+body{
+	background-color: rgb(255, 224, 241);
+}
+
+h1{
+	font-size: 80px;
+	position:absolute;
+	top:15%;
+	left:3%;
+}
+
+h2{
+	position:absolute;
+	top:40%;
+	left:3%;
+}
+
+
+
+ul{
+	font-size:25px;
+	position:absolute;
+	top:50%;
+	left:5%;
+}
+
+li:hover{
+	color:white;
+}
+
+p{
+	text-align:center;
+	font-size:40px;
+	position:absolute;
+	color:black;
+	top:100%;
+	left:10%;
+}
+
+
+.sitementor{
+	position:absolute;
+	top:120%;
+	left:3%;
+}
+
+img{
+	height: 200px;
+	position:absolute;
+	top:110%;
+	left:50%;
+	border-radius: 50%
+}
+
+
+.credentials{
+	font-size:25px;
+	position:absolute;
+	top:130%;
+	left:5%;
+}
+
+iframe{
+position:absolute;
+	top:40%;
+	left:50%;
+}
